@@ -1,0 +1,751 @@
+driver_nationality,age_at_first_race,driver_first_place_count,driver_second_place_count,driver_third_place_count,driver_top_5_place_count,constructorName,constructor_nationality,constructor_first_place_count,constructor_second_place_count,constructor_third_place_count,constructor_top_5_place_count,best_performing_circuit_name,min_lap_time_diff,avg_lap_time_diff,max_lap_time_diff,median_lap_position,min_pit_stop_time,avg_pit_time,max_pit_stop_time,most_common_pitstop_lap,most_common_starting_position,most_common_ending_position
+Finnish,twenty-six,zero,zero,zero,zero,Lotus F1,British,zero,zero,zero,six,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,twelve,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-two,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,eight,sixty-seven,Albert Park Grand Prix Circuit,50% and more,0-25%,25-50%,twelve,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-nine,zero,zero,zero,zero,Toro Rosso,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,0-25%,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-two,zero,zero,zero,zero,Marussia,Russian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,fifteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-five,zero,zero,zero,zero,Super Aguri,Japanese,zero,zero,zero,zero,Suzuka Circuit,50% and more,50% and more,50% and more,twelve,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Renault,French,four,two,seven,twenty-six,Albert Park Grand Prix Circuit,25-50%,25-50%,0-25%,twelve,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-three,zero,zero,zero,zero,Lotus,Malaysian,zero,zero,zero,zero,Circuit de Monaco,50% and more,25-50%,50% and more,nine,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-four,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,five,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-three,zero,zero,zero,zero,Super Aguri,Japanese,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,0-25%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,HRT,Spanish,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,0-25%,fifteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-three,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,eight,sixty-seven,Autodromo Enzo e Dino Ferrari,50% and more,0-25%,0-25%,eight,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-three,zero,zero,zero,zero,Toro Rosso,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,0-25%,0-25%,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-six,zero,zero,zero,zero,Spyker,Dutch,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-four,zero,zero,zero,zero,HRT,Spanish,zero,zero,zero,zero,Hockenheimring,50% and more,50% and more,50% and more,nineteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-one,zero,zero,zero,zero,HRT,Spanish,zero,zero,zero,zero,Bahrain International Circuit,50% and more,25-50%,50% and more,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Portuguese,twenty-nine,zero,zero,zero,zero,MF1,Russian,zero,zero,zero,zero,Bahrain International Circuit,50% and more,50% and more,0-25%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,thirty-one,zero,zero,zero,zero,Super Aguri,Japanese,zero,zero,zero,zero,Bahrain International Circuit,50% and more,50% and more,50% and more,eighteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,Super Aguri,Japanese,zero,zero,zero,zero,Nürburgring,50% and more,50% and more,0-25%,nineteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,twenty-eight,zero,zero,zero,zero,HRT,Spanish,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,50% and more,thirteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-four,zero,zero,zero,zero,Red Bull,Austrian,zero,zero,zero,zero,Hockenheimring,50% and more,25-50%,0-25%,fifteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Indian,twenty-eight,zero,zero,zero,zero,HRT,Spanish,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,twenty,0-25%,25-50%,25-50%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-five,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Indianapolis Motor Speedway,50% and more,50% and more,50% and more,eighteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Toyota,Japanese,zero,zero,zero,three,Albert Park Grand Prix Circuit,50% and more,50% and more,0-25%,nine,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,eight,sixty-four,Albert Park Grand Prix Circuit,50% and more,50% and more,25-50%,eleven,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,thirty,zero,zero,zero,zero,Toyota,Japanese,zero,zero,zero,zero,Circuit de Barcelona-Catalunya,50% and more,25-50%,25-50%,eleven,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,Toyota,Japanese,zero,zero,zero,zero,Autódromo José Carlos Pace,25-50%,50% and more,25-50%,eight,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,Jordan,Irish,zero,zero,two,twenty,Albert Park Grand Prix Circuit,50% and more,50% and more,25-50%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-three,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,eighteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Hungarian,twenty-two,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Hungaroring,50% and more,25-50%,0-25%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,twenty-five,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,eight,sixty-one,Albert Park Grand Prix Circuit,50% and more,0-25%,0-25%,twelve,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-two,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,25-50%,ten,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Indianapolis Motor Speedway,50% and more,50% and more,50% and more,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Irish,twenty-eight,zero,zero,zero,zero,Jordan,Irish,zero,zero,two,twenty,Circuit de Barcelona-Catalunya,50% and more,50% and more,50% and more,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Danish,twenty-five,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Hockenheimring,50% and more,50% and more,25-50%,fifteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-five,zero,zero,zero,zero,Jaguar,British,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,0-25%,twelve,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,25-50%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Arrows,British,zero,zero,zero,two,Albert Park Grand Prix Circuit,50% and more,25-50%,0-25%,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-five,zero,zero,zero,zero,Prost,French,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,25-50%,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Czech,twenty-five,zero,zero,zero,zero,Prost,French,zero,zero,zero,zero,Autodromo Nazionale di Monza,50% and more,0-25%,25-50%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Malaysian,twenty-five,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,25-50%,eighteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Finnish,twenty-eight,zero,zero,zero,zero,Toyota,Japanese,zero,zero,zero,zero,Circuit de Monaco,50% and more,0-25%,50% and more,nine,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-five,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,50% and more,ten,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,Toyota,Japanese,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,50% and more,thirteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-one,zero,zero,zero,zero,Toro Rosso,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,0-25%,50% and more,50% and more,thirteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-four,zero,zero,zero,zero,Arrows,British,zero,zero,zero,two,Albert Park Grand Prix Circuit,50% and more,25-50%,0-25%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-two,zero,zero,zero,zero,Ferrari,Italian,forty,forty-four,twenty-one,one hundred and fifty-one,Albert Park Grand Prix Circuit,50% and more,50% and more,0-25%,nine,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,Williams,British,twenty-five,eight,four,forty-eight,Circuit de Barcelona-Catalunya,Unknown,Unknown,Unknown,three,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-eight,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-seven,Albert Park Grand Prix Circuit,50% and more,25-50%,0-25%,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,seventeen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-six,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,0-25%,25-50%,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Danish,twenty-two,zero,zero,zero,zero,Stewart,British,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,25-50%,0-25%,eight,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-three,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,two,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-nine,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,Unknown,Unknown,Unknown,five,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-two,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,two,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-two,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Circuit de Nevers Magny-Cours,50% and more,25-50%,0-25%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Portuguese,twenty-one,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,four,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Jordan,Irish,zero,zero,zero,ten,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,one,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty,zero,zero,zero,zero,Forti,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,Unknown,Unknown,Unknown,six,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-seven,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Hockenheimring,50% and more,50% and more,0-25%,sixteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,McLaren,British,nineteen,thirteen,seventeen,fifty-eight,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-eight,zero,zero,zero,zero,Ligier,French,zero,two,three,eighteen,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,thirty-one,zero,zero,zero,zero,Footwork,British,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Forti,Italian,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-three,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-seven,zero,zero,zero,zero,Pacific,British,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Simtek,British,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-three,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Circuit de Barcelona-Catalunya,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-six,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Hockenheimring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-six,zero,zero,zero,zero,Footwork,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,thirty-one,zero,zero,zero,zero,Pacific,British,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-seven,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,Larrousse,French,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-five,zero,zero,zero,zero,Simtek,British,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-five,zero,zero,zero,zero,Ligier,French,zero,two,three,fifteen,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-one,zero,zero,zero,zero,Footwork,British,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Monegasque,twenty-five,zero,zero,zero,zero,Larrousse,French,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,thirty-four,zero,zero,zero,zero,Simtek,British,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-nine,zero,zero,zero,zero,Pacific,British,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Finnish,twenty-three,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-one,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,zero,Circuit Gilles Villeneuve,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty,zero,zero,zero,zero,Simtek,British,zero,zero,zero,zero,Circuit de Nevers Magny-Cours,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty,zero,zero,zero,zero,McLaren,British,nineteen,thirteen,seventeen,fifty-four,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-five,zero,zero,zero,zero,Team Lotus,British,twenty,twelve,eight,sixty-six,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-six,zero,zero,zero,zero,Larrousse,French,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-five,zero,zero,zero,zero,Larrousse,French,zero,zero,zero,zero,Circuito de Jerez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-six,zero,zero,zero,zero,Ligier,French,zero,two,three,fifteen,Suzuka Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Footwork,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-eight,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-one,zero,zero,zero,zero,McLaren,British,nineteen,thirteen,seventeen,fifty-one,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-two,zero,zero,zero,zero,Ferrari,Italian,twenty-five,thirty-four,fourteen,one hundred and thirteen,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-four,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,thirty-eight,zero,zero,zero,zero,Larrousse,French,zero,zero,zero,zero,Suzuka Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-five,zero,zero,zero,zero,Jordan,Irish,zero,zero,zero,five,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty,zero,zero,zero,zero,Brabham,British,zero,four,ten,forty-eight,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-one,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-seven,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-four,zero,zero,zero,zero,Jordan,Irish,zero,zero,zero,five,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-two,zero,zero,zero,zero,Footwork,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,Coloni,Italian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-three,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,thirty-four,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-seven,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Dallara,Italian,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Team Lotus,British,twenty,twelve,eight,sixty-four,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Portuguese,twenty-six,zero,zero,zero,zero,Coloni,Italian,zero,zero,zero,zero,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-three,zero,zero,zero,zero,Team Lotus,British,twenty,twelve,eight,sixty-four,Hockenheimring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-five,zero,zero,zero,zero,Coloni,Italian,zero,zero,zero,zero,Suzuka Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Benetton,Italian,zero,zero,five,ten,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-four,zero,zero,zero,zero,Arrows,British,zero,zero,zero,two,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-eight,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-four,zero,zero,zero,zero,Brabham,British,zero,four,ten,forty-eight,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty,zero,zero,zero,zero,Euro Brun,Italian,zero,zero,zero,zero,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-nine,zero,zero,zero,zero,Life,Italian,zero,zero,zero,zero,Phoenix street circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Team Lotus,British,twenty,twelve,eight,sixty-four,Circuit Paul Ricard,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,Life,Italian,zero,zero,zero,zero,Zolder,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,nineteen,zero,zero,zero,zero,Toro Rosso,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,25-50%,50% and more,50% and more,fourteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-three,zero,zero,zero,zero,Haas F1 Team,American,zero,zero,zero,two,Red Bull Ring,50% and more,50% and more,50% and more,twelve,50% and more,25-50%,50% and more,Early Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-three,zero,zero,zero,zero,Caterham,Malaysian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,eleven,50% and more,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-five,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-seven,zero,zero,zero,zero,Rial,German,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty,zero,zero,zero,zero,Arrows,British,zero,zero,zero,two,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,twenty-nine,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-seven,zero,zero,zero,zero,Rial,German,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-seven,zero,zero,zero,zero,Coloni,Italian,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-nine,zero,zero,zero,zero,AGS,French,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty-four,zero,zero,zero,zero,Euro Brun,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-nine,zero,zero,zero,zero,AGS,French,zero,zero,zero,zero,Adelaide Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,twenty-seven,zero,zero,zero,zero,Minardi,Italian,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-five,zero,zero,zero,zero,Williams,British,thirteen,two,two,twenty-four,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-seven,zero,zero,zero,zero,AGS,French,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Benetton,Italian,zero,zero,zero,two,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-nine,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,Team Lotus,British,twenty,twelve,six,sixty,Hungaroring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-eight,zero,zero,zero,zero,Arrows,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,thirty,zero,zero,zero,zero,Zakspeed,German,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,twenty-five,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Detroit Street Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-nine,zero,zero,zero,zero,RAM,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,Renault,French,zero,two,four,eleven,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-eight,zero,zero,zero,zero,Spirit,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-seven,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-two,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,RAM,British,zero,zero,zero,zero,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Venezuelan,twenty-seven,zero,zero,zero,zero,Toleman,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,thirty,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-two,zero,zero,zero,zero,Brabham,British,zero,four,ten,forty-six,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+New Zealander,nineteen,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-two,Circuit Gilles Villeneuve,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-four,zero,zero,zero,zero,Arrows,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-two,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Chilean,twenty-seven,zero,zero,zero,zero,RAM,British,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Colombian,twenty-four,zero,zero,zero,zero,Theodore,Hong Kong,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-five,zero,zero,zero,zero,Ligier,French,zero,two,three,ten,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-five,zero,zero,zero,zero,Ligier,French,zero,two,three,ten,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,twenty-eight,zero,zero,zero,zero,RAM,British,zero,zero,zero,zero,Circuit Gilles Villeneuve,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-seven,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,thirty-five,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-two,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-four,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-nine,zero,zero,zero,zero,Arrows,British,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Irish,twenty-five,zero,zero,zero,zero,Williams,British,eight,two,zero,fourteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,thirty,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Team Lotus,British,twenty,twelve,zero,fifty-four,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Irish,twenty-four,zero,zero,zero,zero,Theodore,Hong Kong,zero,zero,zero,zero,Hockenheimring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-two,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Mexican,twenty-one,zero,zero,zero,zero,Brabham,British,zero,four,eight,thirty-eight,Autodromo Enzo e Dino Ferrari,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-one,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Long Beach,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-two,Circuit Gilles Villeneuve,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-eight,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Long Beach,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Arrows,British,zero,zero,zero,zero,Long Beach,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,thirty-two,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Colombian,thirty-two,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Autódromo Internacional Nelson Piquet,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-two,zero,zero,zero,zero,Ligier,French,zero,two,three,ten,Dijon-Prenois,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty,zero,zero,zero,zero,Osella,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Irish,twenty-seven,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,McLaren,British,six,two,seventeen,twenty-five,Long Beach,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-nine,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Zolder,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-seven,zero,zero,zero,zero,Williams,British,six,two,zero,eight,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-seven,zero,zero,zero,zero,ATS,Italian,zero,zero,zero,zero,Hockenheimring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-seven,zero,zero,zero,zero,Alfa Romeo,Swiss,zero,zero,zero,zero,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Merzario,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-three,zero,zero,zero,zero,ATS,Italian,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Merzario,Italian,zero,zero,zero,zero,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-seven,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Dijon-Prenois,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-eight,zero,zero,zero,zero,Fittipaldi,Brazilian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,McLaren,British,six,two,seventeen,twenty-five,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-four,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Hesketh,British,zero,zero,zero,five,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-seven,zero,zero,zero,zero,Arrows,British,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-two,zero,zero,zero,zero,ATS,Italian,zero,zero,zero,zero,Zolder,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,McLaren,British,six,two,seventeen,twenty-five,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-eight,zero,zero,zero,zero,ATS,Italian,zero,zero,zero,zero,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-eight,zero,zero,zero,zero,ATS,Italian,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,forty,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-five,zero,zero,zero,zero,Wolf,Canadian,zero,zero,zero,three,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-eight,zero,zero,zero,zero,Brabham,British,zero,two,three,thirty-one,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-seven,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Fittipaldi,Brazilian,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,twenty-eight,zero,zero,zero,zero,Team Lotus,British,sixteen,twelve,zero,forty-four,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-four,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-seven,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-seven,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,LEC,British,zero,zero,zero,zero,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,thirty-seven,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-five,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Zolder,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Finnish,twenty-nine,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Scandinavian Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,thirty-two,zero,zero,zero,zero,McGuire,Australian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,thirty-one,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Nivelles-Baulers,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-four,zero,zero,zero,zero,Penske,American,zero,zero,zero,two,Hockenheimring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-two,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Hockenheimring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Hesketh,British,zero,zero,zero,five,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-six,zero,zero,zero,zero,Apollon,Swiss,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,thirty-seven,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,twenty-six,Fuji Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-nine,zero,zero,zero,zero,Kojima,Japanese,zero,zero,zero,zero,Fuji Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-five,zero,zero,zero,zero,Kojima,Japanese,zero,zero,zero,zero,Fuji Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-three,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,Team Lotus,British,sixteen,ten,zero,forty-two,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-nine,zero,zero,zero,zero,Wolf,Canadian,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,thirty-two,zero,zero,zero,zero,Williams,British,zero,zero,zero,zero,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-six,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Danish,thirty-two,zero,zero,zero,zero,Brabham-Ford,British,zero,four,zero,four,Scandinavian Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty,zero,zero,zero,zero,Brabham-Ford,British,zero,four,zero,four,Circuit Paul Ricard,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-four,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,twenty-three,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-nine,zero,zero,zero,zero,Tyrrell,British,three,seven,nine,twenty-three,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-seven,zero,zero,zero,zero,Wolf,Canadian,zero,zero,zero,zero,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,thirty-one,zero,zero,zero,zero,Kojima,Japanese,zero,zero,zero,zero,Fuji Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-four,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-nine,zero,zero,zero,zero,Fittipaldi,Brazilian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-seven,zero,zero,zero,zero,Team Lotus,British,sixteen,ten,zero,thirty-eight,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-nine,zero,zero,zero,zero,Team Lotus,British,sixteen,ten,zero,thirty-eight,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-nine,zero,zero,zero,zero,McLaren,British,six,zero,eleven,seventeen,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-three,zero,zero,zero,zero,Williams,British,zero,zero,zero,zero,Scandinavian Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-seven,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Montjuïc,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,Williams,British,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,twenty-eight,zero,zero,zero,zero,Hesketh,British,zero,zero,zero,five,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-nine,zero,zero,zero,zero,Ensign,British,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-nine,zero,zero,zero,zero,Maki,Japanese,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+New Zealander,thirty-three,zero,zero,zero,zero,Lyncar,British,zero,zero,zero,zero,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Team Lotus,British,sixteen,ten,zero,thirty-eight,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,thirty-three,zero,zero,zero,zero,Williams,British,zero,zero,zero,zero,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-three,zero,zero,zero,zero,McLaren,British,six,zero,eight,fourteen,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+New Zealander,thirty,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty,zero,zero,zero,zero,Brabham,British,zero,zero,three,twenty-five,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-nine,zero,zero,zero,zero,Team Lotus,British,sixteen,ten,zero,thirty-eight,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Danish,thirty-two,zero,zero,zero,zero,Iso Marlboro,British,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Liechtensteiner,twenty-six,zero,zero,zero,zero,Brabham,British,zero,zero,three,twenty-five,Circuit Paul Ricard,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-seven,zero,zero,zero,zero,Team Lotus,British,sixteen,ten,zero,thirty-eight,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-four,zero,zero,zero,zero,Brabham,British,zero,zero,three,twenty-five,Nivelles-Baulers,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Finnish,thirty-one,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Nivelles-Baulers,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,twenty-nine,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Scandinavian Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,thirty-one,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Scandinavian Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Dijon-Prenois,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty,zero,zero,zero,zero,Lola,British,zero,zero,zero,two,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,McLaren,British,six,zero,eight,fourteen,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,thirty-five,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-six,zero,zero,zero,zero,Brabham,British,zero,zero,three,twenty-five,Red Bull Ring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-nine,zero,zero,zero,zero,Brabham,British,zero,zero,three,twenty-five,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,twenty-nine,zero,zero,zero,zero,Brabham,British,zero,zero,three,twenty-five,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty,zero,zero,zero,zero,Iso Marlboro,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,thirty-six,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Autódromo José Carlos Pace,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-nine,zero,zero,zero,zero,Shadow,British,zero,zero,zero,zero,Montjuïc,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Brabham,British,zero,zero,three,thirteen,Jarama,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,thirty-one,zero,zero,zero,zero,Iso Marlboro,British,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,March,British,zero,zero,seven,fourteen,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+New Zealander,thirty-three,zero,zero,zero,zero,Iso Marlboro,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Austrian,twenty-eight,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,thirty,zero,zero,zero,zero,Team Lotus,British,thirteen,ten,zero,thirty,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,thirty-eight,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Rhodesian,thirty-eight,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,March,British,zero,zero,seven,seven,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,thirty-three,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-seven,zero,zero,zero,zero,Surtees,British,zero,zero,zero,six,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Mexican,twenty-three,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,twenty-six,zero,zero,zero,zero,McLaren,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,March-Ford,British,zero,zero,nine,nine,Circuit Paul Ricard,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-eight,zero,zero,zero,zero,March-Ford,British,zero,zero,nine,nine,Circuit Paul Ricard,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Charade Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-six,zero,zero,zero,zero,Bellasi,Swiss,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,twenty-four,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Lotus-Ford,British,six,two,nine,twenty,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Brabham,British,zero,zero,three,eight,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,thirty-eight,zero,zero,zero,zero,BRM,British,six,twenty-two,five,fifty-eight,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,Team Lotus,British,nine,ten,zero,twenty-six,Charade Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-five,zero,zero,zero,zero,March,British,zero,zero,seven,seven,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,De Tomaso,Italian,zero,zero,zero,zero,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-eight,zero,zero,zero,zero,Brabham,British,zero,zero,three,eight,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Ferrari,Italian,eleven,twenty-one,six,sixty-four,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-two,zero,zero,zero,zero,March,British,zero,zero,seven,seven,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Brabham,British,zero,zero,three,eight,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,BRM,British,six,fifteen,five,fifty-one,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Rhodesian,forty-one,zero,zero,zero,zero,Brabham-Repco,British,three,zero,zero,three,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-nine,zero,zero,zero,zero,McLaren-Ford,British,zero,one,zero,six,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-four,zero,zero,zero,zero,Lotus-Ford,British,six,two,nine,seventeen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,forty-six,zero,zero,zero,zero,Eagle-Climax,American,zero,zero,zero,zero,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,thirty-four,zero,zero,zero,zero,Brabham-Climax,British,zero,zero,six,nine,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,BRM,British,six,fifteen,five,forty-seven,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty,zero,zero,zero,zero,Cooper-BRM,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-five,zero,zero,zero,zero,Cooper-BRM,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-nine,zero,zero,zero,zero,Honda,Japanese,zero,zero,zero,one,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,Cooper-BRM,British,zero,zero,zero,zero,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-seven,zero,zero,zero,zero,Brabham-Repco,British,three,zero,zero,three,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,thirty-four,zero,zero,zero,zero,BRM,British,six,fifteen,five,forty-seven,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-four,zero,zero,zero,zero,BRM,British,six,fifteen,five,forty-seven,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Mexican,twenty-eight,zero,zero,zero,zero,Lotus-Ford,British,six,two,zero,eight,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Brabham-Climax,British,zero,zero,six,nine,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,thirty-seven,zero,zero,zero,zero,Brabham-Climax,British,zero,zero,six,nine,Kyalami,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,Ferrari,Italian,eleven,eighteen,six,fifty-five,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-four,zero,zero,zero,zero,BRM,British,six,fifteen,five,forty-one,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-six,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,thirteen,twenty-three,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-nine,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,thirteen,twenty-three,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Protos,British,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Lotus-BRM,British,zero,zero,zero,one,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,seven,sixty-seven,Mosport International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Lotus-Ford,British,zero,two,zero,two,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Ferrari,Italian,eleven,eighteen,six,fifty-five,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,BRM,British,six,fifteen,five,forty-one,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-nine,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-nine,zero,zero,zero,zero,BRM,British,six,fifteen,five,forty-one,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Brabham-BRM,British,zero,zero,zero,zero,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,Cooper-Ferrari,British,zero,zero,zero,zero,Brands Hatch,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-three,zero,zero,zero,zero,Shannon,British,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-seven,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-eight,zero,zero,zero,zero,Honda,Japanese,zero,zero,zero,zero,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-eight,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,Brabham-Ford,British,zero,zero,zero,zero,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-four,zero,zero,zero,zero,Lotus-BRM,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-eight,zero,zero,zero,zero,Cooper-Ford,British,zero,zero,zero,zero,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-four,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,forty-two,zero,zero,zero,zero,LDS-Climax,South African,zero,zero,zero,zero,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-four,zero,zero,zero,zero,Lotus-Ford,British,zero,zero,zero,zero,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-four,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Rhodesian,twenty-four,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,thirty-three,zero,zero,zero,zero,RE,Rhodesian,zero,zero,zero,zero,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,thirty-four,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,zero,ten,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,thirty-three,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,seven,sixty-seven,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-five,zero,zero,zero,zero,BRM,British,six,fifteen,five,thirty-six,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-eight,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,seven,sixty-seven,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,forty-two,zero,zero,zero,zero,Brabham-BRM,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-two,zero,zero,zero,zero,Cooper-Ford,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-eight,zero,zero,zero,zero,Lotus-Climax,British,twenty-one,thirty-five,eight,sixty-four,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-four,zero,zero,zero,zero,BRM,British,six,fifteen,five,thirty-six,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-eight,zero,zero,zero,zero,Ferrari,Italian,eleven,thirteen,six,forty-five,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-one,zero,zero,zero,zero,BRM,British,six,fifteen,five,thirty-six,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-one,zero,zero,zero,zero,Lotus-BRM,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-three,zero,zero,zero,zero,Scirocco,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-three,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-six,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,seven,sixty-two,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Portuguese,twenty-five,zero,zero,zero,zero,Derrington,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-two,zero,zero,zero,zero,Lotus-Climax,British,eleven,thirty-five,eight,fifty-four,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Brabham-BRM,British,zero,zero,zero,zero,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-two,zero,zero,zero,zero,Ferrari,Italian,seven,thirteen,six,thirty-five,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Lola,British,zero,zero,zero,two,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,Scirocco,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Scirocco,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-eight,zero,zero,zero,zero,De Tomaso,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-five,zero,zero,zero,zero,Lotus-BRM,British,zero,zero,zero,zero,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Lotus-Climax,British,eleven,thirty-five,zero,forty-six,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,fifty-two,zero,zero,zero,zero,Lotus-Borgward,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,zero,ten,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-five,zero,zero,zero,zero,De Tomaso-Ferrari,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-five,zero,zero,zero,zero,Lotus-BRM,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Lotus-Maserati,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,thirty-seven,zero,zero,zero,zero,Stebro,Canadian,zero,zero,zero,zero,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Lotus-BRM,British,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-two,zero,zero,zero,zero,Stebro,Canadian,zero,zero,zero,zero,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-three,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,seven,fifty-six,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,eighteen,zero,zero,zero,zero,Lotus-Climax,British,eleven,thirty-five,zero,forty-six,Autódromo Hermanos Rodríguez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,BRM,British,six,zero,five,twenty-one,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Mexican,nineteen,zero,zero,zero,zero,Ferrari,Italian,seven,thirteen,six,thirty-one,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+German,twenty-seven,zero,zero,zero,zero,Emeryson,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-six,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,thirty-three,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,BRM,British,six,zero,five,twenty-one,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+British,twenty-five,zero,zero,zero,zero,BRM,British,six,zero,five,twenty-one,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,thirty-two,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+British,twenty-six,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-seven,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+New Zealander,twenty-five,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-one,zero,zero,zero,zero,Gilby,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,thirty-five,zero,zero,zero,zero,Porsche,German,zero,zero,five,seventeen,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-eight,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-six,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,seven,fifty,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+South African,twenty-five,zero,zero,zero,zero,BRM,British,six,zero,five,twenty-one,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,twenty-three,zero,zero,zero,zero,Cooper-Alfa Romeo,British,zero,zero,zero,zero,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Rhodesian,twenty-five,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+South African,forty-two,zero,zero,zero,zero,Lotus-Climax,British,zero,thirty-five,zero,thirty-five,Prince George Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-five,zero,zero,zero,zero,Porsche,German,zero,zero,five,eight,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-seven,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-two,zero,zero,zero,zero,Ferrari,Italian,seven,thirteen,six,twenty-six,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-five,zero,zero,zero,zero,De Tomaso-Osca,Italian,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,thirty-four,zero,zero,zero,zero,JBW,British,zero,zero,zero,one,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-seven,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,forty,zero,zero,zero,zero,Ferguson,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-six,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,zero,ten,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,twenty-seven,zero,zero,zero,zero,MBM,Swiss,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Italian,twenty-eight,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,zero,ten,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+British,thirty-eight,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,forty-three,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American-Italian,forty,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,forty-three,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-one,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,forty-three,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,twenty-one,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,forty-three,zero,zero,zero,zero,Lotus-Climax,British,zero,seventeen,zero,seventeen,Watkins Glen,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty-nine,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,zero,ten,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-six,zero,zero,zero,zero,Team Lotus,British,zero,ten,zero,seventeen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Argentine,forty-one,zero,zero,zero,zero,Cooper-Maserati,British,zero,zero,zero,ten,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-two,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Team Lotus,British,zero,ten,zero,seventeen,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Venezuelan,thirty-nine,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,thirty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+British,twenty-two,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,twenty-eight,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,twenty-eight,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-seven,zero,zero,zero,zero,Scarab,American,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Scarab,American,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+American,twenty-two,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-nine,zero,zero,zero,zero,Phillips,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-one,zero,zero,zero,zero,Lesovsky,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Trevis,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Meskowski,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Trevis,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,thirty-two,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty-seven,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Meskowski,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-eight,zero,zero,zero,zero,Christensen,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Ewing,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,twenty-eight,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-four,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-three,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-nine,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-six,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-eight,zero,zero,zero,zero,Ewing,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty-one,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+British,twenty-five,zero,zero,zero,zero,Team Lotus,British,zero,ten,zero,seventeen,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-one,zero,zero,zero,zero,Team Lotus,British,zero,ten,zero,seventeen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+British,twenty-nine,zero,zero,zero,zero,Team Lotus,British,zero,ten,zero,seventeen,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-five,zero,zero,zero,zero,Cooper-Castellotti,British,zero,zero,zero,two,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-four,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,twenty-eight,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,twenty-eight,zero,zero,zero,zero,Behra-Porsche,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 5
+British,forty-five,zero,zero,zero,zero,Cooper-Climax,British,twenty-eight,zero,zero,twenty-eight,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-one,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Riverside International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-four,zero,zero,zero,zero,Cooper-Borgward,British,zero,zero,zero,three,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Belgian,thirty-seven,zero,zero,zero,zero,Cooper-Climax,British,fourteen,zero,zero,fourteen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+Italian,thirty-two,zero,zero,zero,zero,Porsche,German,zero,zero,zero,three,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-six,zero,zero,zero,zero,Cooper-Climax,British,fourteen,zero,zero,fourteen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Monegasque,thirty-two,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-nine,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty,zero,zero,zero,zero,Elder,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Christensen,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,twelve,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty-seven,zero,zero,zero,zero,Sutton,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Aston Martin,British,zero,zero,zero,two,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Brazilian,twenty-one,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Uruguayan,thirty-seven,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+British,twenty-five,zero,zero,zero,zero,Cooper-Climax,British,fourteen,zero,zero,fourteen,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,Cooper-Climax,British,fourteen,zero,zero,fourteen,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-eight,zero,zero,zero,zero,Team Lotus,British,zero,zero,zero,seven,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Porsche,German,zero,zero,zero,three,Sebring International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+Argentine-Italian,twenty-nine,zero,zero,zero,zero,Cooper-OSCA,British,zero,zero,zero,one,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-one,zero,zero,zero,zero,Cooper-Borgward,British,zero,zero,zero,three,Sebring International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-seven,zero,zero,zero,zero,Connaught,British,zero,zero,zero,one,Sebring International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-three,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,twenty-two,Sebring International Raceway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,thirty,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,sixteen,Circuit de Pedralbes,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,thirty-five,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,sixteen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-eight,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,sixteen,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-two,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+British,forty,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Italian,forty-two,zero,zero,zero,zero,OSCA,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-eight,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Italian,twenty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,sixteen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+Monegasque,fifty-one,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,sixteen,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,Vanwall,British,two,zero,zero,two,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-four,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 10
+American,twenty-three,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-nine,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-three,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-eight,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty-two,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Belgian,thirty,zero,zero,zero,zero,Cooper,British,zero,zero,fifteen,fifteen,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-nine,zero,zero,zero,zero,Cooper,British,zero,zero,fifteen,fifteen,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-one,zero,zero,zero,zero,Cooper,British,zero,zero,fifteen,fifteen,Ain Diab,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+French,thirty-nine,zero,zero,zero,zero,Cooper,British,zero,zero,fifteen,fifteen,Ain Diab,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+French,thirty-seven,zero,zero,zero,zero,Cooper,British,zero,zero,fifteen,fifteen,Ain Diab,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+British,twenty-four,zero,zero,zero,zero,Cooper,British,zero,zero,fifteen,fifteen,Ain Diab,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Spanish,twenty-eight,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-three,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-one,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-six,zero,zero,zero,zero,BRM,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Epperly,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-nine,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-seven,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-seven,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-nine,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Rouen-Les-Essarts,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,thirty,zero,zero,zero,zero,BRM,British,zero,zero,zero,zero,Rouen-Les-Essarts,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+British,thirty-six,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Italian,twenty-five,zero,zero,zero,zero,Porsche,German,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,twenty-eight,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,forty-four,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Uruguayan,thirty-one,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,thirty,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-eight,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,thirty-three,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Stevens,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty-seven,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-five,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Italian,forty-seven,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+British,twenty-eight,zero,zero,zero,zero,Vanwall,British,zero,zero,zero,zero,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+British,twenty-eight,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+British,twenty-nine,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,thirty-seven,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-eight,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Swiss,thirty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Argentine,twenty-nine,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-four,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty-four,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty-three,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Argentine,twenty-nine,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+French,thirty-two,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,twenty-seven,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,twenty-one,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-nine,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-four,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+American,thirty-three,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-one,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+American,twenty-one,zero,zero,zero,zero,Stevens,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Belgian,thirty-four,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-eight,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+French,twenty-five,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,thirty-six,zero,zero,zero,zero,Vanwall,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Aintree,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+French,thirty-eight,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Thai,thirty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,twenty-eight,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-seven,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Argentine,thirty-one,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-eight,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty,zero,zero,zero,zero,Kuzma,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-six,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,forty,zero,zero,zero,zero,Bromme,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-three,zero,zero,zero,zero,Schroeder,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-two,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-five,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-five,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-six,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-eight,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+British,forty-five,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 10
+British,thirty,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,thirty-nine,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-six,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-four,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,forty-four,zero,zero,zero,zero,Mercedes,German,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-nine,zero,zero,zero,zero,Klenk,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Gordini,French,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Italian,twenty-nine,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,forty,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+British,twenty-four,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Italian,forty-seven,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty-eight,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-seven,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-three,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,twenty-four,zero,zero,zero,zero,Stevens,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,fifty-four,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-six,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+British,thirty-two,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-two,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-four,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 5
+British,thirty-one,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+East German,forty-nine,zero,zero,zero,zero,BMW,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+East German,forty-five,zero,zero,zero,zero,BMW,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-six,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+East German,thirty,zero,zero,zero,zero,AFM,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+German,thirty-two,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-one,zero,zero,zero,zero,AFM,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+German,forty-one,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+German,fifty-two,zero,zero,zero,zero,AFM,German,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+German,forty-six,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Swiss,forty-five,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Swiss,thirty-four,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,forty-one,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-one,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+German,forty-six,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-eight,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-four,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-nine,zero,zero,zero,zero,Watson,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-one,zero,zero,zero,zero,Stevens,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty-five,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-seven,zero,zero,zero,zero,Lesovsky,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-nine,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-six,zero,zero,zero,zero,Stevens,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Belgian,twenty-five,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,thirty-nine,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,forty-four,zero,zero,zero,zero,Simca,French,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Australian,thirty-two,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-seven,zero,zero,zero,zero,Aston Butterworth,British,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,forty-four,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,fifty-four,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+British,thirty-six,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+British,thirty-five,zero,zero,zero,zero,Connaught,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+British,thirty,zero,zero,zero,zero,Alta,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Brazilian,thirty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,forty-one,zero,zero,zero,zero,Cooper,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Uruguayan,forty-six,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,fifty-two,zero,zero,zero,zero,Aston Butterworth,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,fifty-three,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+German,thirty,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+German,thirty-seven,zero,zero,zero,zero,AFM,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+German,thirty-three,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-three,zero,zero,zero,zero,BMW,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+Swiss,fifty,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+German,thirty-nine,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-eight,zero,zero,zero,zero,Veritas,German,zero,zero,zero,zero,Nürburgring,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+Dutch,thirty-three,zero,zero,zero,zero,HWM,British,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,thirty-three,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Park Zandvoort,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,fifty-three,zero,zero,zero,zero,Cisitalia,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty-two,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+Italian,forty-two,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-nine,zero,zero,zero,zero,Alfa Romeo,Swiss,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,forty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty-four,zero,zero,zero,zero,Deidt,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Hall,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+American,thirty-one,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-nine,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,thirty-five,zero,zero,zero,zero,Deidt,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-five,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Circuit de Spa-Francorchamps,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-three,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+French,thirty,zero,zero,zero,zero,Simca,French,zero,zero,zero,zero,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+Irish,thirty-seven,zero,zero,zero,zero,Alta,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,forty-four,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 5
+British,thirty-five,zero,zero,zero,zero,ERA,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-seven,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swiss,thirty-four,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,forty,zero,zero,zero,zero,BRM,British,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,forty-eight,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit de Pedralbes,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,forty-six,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Circuit de Pedralbes,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,thirty-three,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+British,twenty-nine,zero,zero,zero,zero,Alta,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+British,forty-four,zero,zero,zero,zero,ERA,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+British,thirty-five,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Beyond Top 10
+French,thirty-five,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+British,thirty-eight,zero,zero,zero,zero,ERA,British,zero,zero,zero,zero,Silverstone Circuit,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Beyond Top 10
+Italian,fifty-two,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Argentine,thirty-eight,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+French,forty-four,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Circuit de Monaco,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 5
+American,thirty-eight,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,thirty-eight,zero,zero,zero,zero,Marchese,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,thirty-seven,zero,zero,zero,zero,Rae,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty-six,zero,zero,zero,zero,Adams,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,forty,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,thirty-nine,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Circuit Bremgarten,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 10,Top 10
+French,forty-one,zero,zero,zero,zero,Talbot-Lago,French,zero,zero,zero,zero,Reims-Gueux,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 5
+Italian,forty-one,zero,zero,zero,zero,Ferrari,Italian,zero,zero,zero,zero,Autodromo Nazionale di Monza,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Top 5,Top 5
+American,forty-two,zero,zero,zero,zero,Adams,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,thirty-five,zero,zero,zero,zero,Kurtis Kraft,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Top 10
+American,thirty-seven,zero,zero,zero,zero,Bromme,American,zero,zero,zero,zero,Indianapolis Motor Speedway,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Uruguayan,thirty-three,zero,zero,zero,zero,Maserati,Italian,zero,zero,zero,zero,Autódromo Juan y Oscar Gálvez,Unknown,Unknown,Unknown,zero,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-three,zero,zero,zero,zero,Aston Martin,British,zero,zero,zero,two,Circuit de Spa-Francorchamps,50% and more,50% and more,50% and more,ten,50% and more,25-50%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Russian,twenty-six,zero,zero,zero,zero,Caterham,Malaysian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,0-25%,50% and more,50% and more,thirteen,0-25%,0-25%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-six,zero,zero,zero,zero,Virgin,British,zero,zero,zero,zero,Bahrain International Circuit,50% and more,50% and more,50% and more,nineteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-seven,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,eight,sixty-seven,Autodromo Nazionale di Monza,50% and more,50% and more,50% and more,sixteen,0-25%,0-25%,25-50%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Indian,twenty-six,zero,zero,zero,zero,Lotus,Malaysian,zero,zero,zero,zero,Bahrain International Circuit,50% and more,50% and more,0-25%,twenty,50% and more,25-50%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Venezuelan,twenty-six,zero,zero,zero,zero,Lotus F1,British,zero,zero,zero,six,Circuit Gilles Villeneuve,50% and more,50% and more,50% and more,thirteen,0-25%,0-25%,0-25%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,twelve,seventy-six,Marina Bay Street Circuit,50% and more,50% and more,50% and more,twelve,50% and more,0-25%,0-25%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-six,zero,zero,zero,zero,Lotus F1,British,zero,zero,zero,three,Albert Park Grand Prix Circuit,50% and more,0-25%,0-25%,eighteen,0-25%,0-25%,0-25%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-two,zero,zero,zero,zero,Toro Rosso,Italian,zero,zero,zero,zero,Circuit Gilles Villeneuve,0-25%,50% and more,50% and more,thirteen,50% and more,0-25%,0-25%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-two,zero,zero,zero,zero,Caterham,Malaysian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,0-25%,eighteen,0-25%,25-50%,25-50%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-two,zero,zero,zero,zero,Marussia,Russian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,nineteen,25-50%,0-25%,25-50%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Mexican,twenty-two,zero,zero,zero,zero,Haas F1 Team,American,zero,zero,zero,zero,Albert Park Grand Prix Circuit,0-25%,50% and more,50% and more,fourteen,25-50%,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-eight,zero,zero,zero,zero,Caterham,Malaysian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,eighteen,25-50%,25-50%,25-50%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-four,zero,zero,zero,zero,Marussia,Russian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,eighteen,50% and more,25-50%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Danish,twenty-two,zero,zero,zero,zero,Haas F1 Team,American,zero,zero,zero,two,Albert Park Grand Prix Circuit,25-50%,50% and more,50% and more,eleven,50% and more,50% and more,50% and more,Late Pitstop,Beyond Top 10,Beyond Top 10
+Russian,twenty,zero,zero,zero,zero,AlphaTauri,Italian,zero,zero,zero,zero,Albert Park Grand Prix Circuit,25-50%,50% and more,50% and more,eleven,25-50%,50% and more,50% and more,Early Pitstop,Beyond Top 10,Beyond Top 10
+German,thirty-three,zero,zero,zero,zero,Caterham,Malaysian,zero,zero,zero,zero,Circuit de Spa-Francorchamps,50% and more,50% and more,0-25%,eighteen,Unknown,Unknown,Unknown,Late Pitstop,Beyond Top 10,Beyond Top 10
+Swedish,twenty-four,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,five,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,fifteen,25-50%,50% and more,50% and more,Early Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-three,zero,zero,zero,zero,Manor Marussia,British,zero,zero,zero,zero,Sepang International Circuit,50% and more,25-50%,0-25%,eighteen,25-50%,0-25%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-three,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,five,Albert Park Grand Prix Circuit,50% and more,25-50%,25-50%,fourteen,25-50%,25-50%,25-50%,Early Pitstop,Beyond Top 10,Beyond Top 10
+Spanish,twenty-four,zero,zero,zero,zero,Manor Marussia,British,zero,zero,zero,zero,Sepang International Circuit,50% and more,50% and more,0-25%,seventeen,50% and more,25-50%,25-50%,Late Pitstop,Beyond Top 10,Beyond Top 10
+American,twenty-four,zero,zero,zero,zero,Manor Marussia,British,zero,zero,zero,zero,Marina Bay Street Circuit,50% and more,50% and more,0-25%,eighteen,50% and more,50% and more,25-50%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Renault,French,four,two,seven,thirty-one,Marina Bay Street Circuit,50% and more,50% and more,0-25%,fourteen,25-50%,25-50%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-two,zero,zero,zero,zero,Sauber,Swiss,zero,zero,zero,five,Circuit de Barcelona-Catalunya,50% and more,50% and more,50% and more,sixteen,50% and more,50% and more,50% and more,Early Pitstop,Beyond Top 10,Beyond Top 10
+Indonesian,twenty-three,zero,zero,zero,zero,Manor Marussia,British,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,50% and more,nineteen,25-50%,25-50%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Belgian,twenty-four,zero,zero,zero,zero,McLaren,British,twenty-three,twenty-nine,twenty-eight,ninety-nine,Bahrain International Circuit,50% and more,50% and more,0-25%,twelve,50% and more,25-50%,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty,zero,zero,zero,zero,Alpine F1 Team,French,zero,zero,zero,four,Bahrain International Circuit,50% and more,50% and more,50% and more,eleven,50% and more,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,nineteen,zero,zero,zero,zero,Aston Martin,British,zero,zero,zero,two,Baku City Circuit,50% and more,50% and more,50% and more,twelve,50% and more,50% and more,50% and more,Late Pitstop,Beyond Top 10,Beyond Top 10
+Italian,twenty-four,zero,zero,zero,zero,Alfa Romeo,Swiss,zero,zero,zero,zero,Albert Park Grand Prix Circuit,50% and more,50% and more,0-25%,fourteen,50% and more,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+French,twenty-one,zero,zero,zero,zero,AlphaTauri,Italian,zero,zero,zero,zero,Baku City Circuit,50% and more,25-50%,50% and more,ten,50% and more,0-25%,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+New Zealander,twenty-eight,zero,zero,zero,zero,Toro Rosso,Italian,zero,zero,zero,zero,Circuit of the Americas,50% and more,25-50%,0-25%,fourteen,25-50%,0-25%,0-25%,Early Pitstop,Beyond Top 10,Beyond Top 10
+Russian,twenty-three,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,twelve,seventy-six,Autodromo Nazionale di Monza,50% and more,50% and more,0-25%,sixteen,50% and more,25-50%,0-25%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty,zero,zero,zero,zero,McLaren,British,twenty-three,twenty-nine,thirty,one hundred and seven,Autodromo Enzo e Dino Ferrari,0-25%,50% and more,50% and more,eight,25-50%,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Thai,twenty-three,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,twelve,seventy-six,Autodromo Internazionale del Mugello,25-50%,50% and more,50% and more,eleven,0-25%,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Canadian,twenty-five,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,twelve,seventy-six,Hungaroring,50% and more,50% and more,50% and more,seventeen,50% and more,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Brazilian,twenty-four,zero,zero,zero,zero,Haas F1 Team,American,zero,zero,zero,two,Bahrain International Circuit,50% and more,50% and more,0-25%,eighteen,50% and more,50% and more,0-25%,Late Pitstop,Beyond Top 10,Beyond Top 10
+British,twenty-five,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,twelve,seventy-six,Bahrain International Circuit,50% and more,50% and more,25-50%,sixteen,50% and more,50% and more,25-50%,Late Pitstop,Beyond Top 10,Beyond Top 10
+Japanese,twenty-one,zero,zero,zero,zero,AlphaTauri,Italian,zero,zero,zero,zero,Autodromo Enzo e Dino Ferrari,25-50%,50% and more,50% and more,thirteen,0-25%,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Russian,twenty-two,zero,zero,zero,zero,Haas F1 Team,American,zero,zero,zero,two,Losail International Circuit,50% and more,50% and more,50% and more,eighteen,0-25%,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+German,twenty-two,zero,zero,zero,zero,Haas F1 Team,American,zero,zero,zero,two,Losail International Circuit,25-50%,50% and more,50% and more,sixteen,0-25%,50% and more,50% and more,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
+Chinese,twenty-three,zero,zero,zero,zero,Alfa Romeo,Swiss,zero,zero,zero,zero,Circuit Gilles Villeneuve,0-25%,50% and more,50% and more,fourteen,0-25%,50% and more,50% and more,Early Pitstop,Beyond Top 10,Beyond Top 10
+Dutch,twenty-seven,zero,zero,zero,zero,Williams,British,twenty-five,thirteen,twelve,seventy-six,Autodromo Nazionale di Monza,50% and more,25-50%,0-25%,nine,50% and more,25-50%,0-25%,Mid-race Pitstop,Beyond Top 10,Beyond Top 10
