@@ -8,6 +8,7 @@ This project employs association rules data mining to analyze a comprehensive da
 
 - `code/`: Contains the source code for the data mining process.
 - `data/`: Includes the dataset.
+- `outputs/`: Files produced.
 - `results/`: Outcome of the data mining process, including association rules and evaluations.
 
 
