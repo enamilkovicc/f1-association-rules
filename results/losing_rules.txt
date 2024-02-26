@@ -1,0 +1,18 @@
+Attribute:
+- driver_nationality
+- age_at_first_race
+- constructor_nationality
+- best_performing_circuit_name
+- median_lap_position
+- most_common_starting_positon
+- most_common_ending_positon
+
+age_at_first_race = twenty-five => most_common_starting_position = Beyond Top 10
+Confidence: 100%; Lift:1.03;
+age_at_first_race=twenty-five most_common_ending_position=Beyond Top 10 ⇒
+most_common_starting_position=Beyond Top 10
+Confidence: 100%; Lift:1.21;
+constructor_nationality=Italian ⇒ most_common_ending_position=Beyond Top 10
+Confidence: 82%; Lift:1;
+driver_nationality=Brazilian ⇒ most_common_ending_position=Beyond Top 10
+Confidence: 93%; Lift:1.14;

@@ -1,0 +1,24 @@
+Attributes:
+- driver_nationality
+- age_at_first_race
+- top_5_count
+- constructorName
+- constructor_nationality
+- constructor_top_5_count
+- best_performing_circuit_name
+- min_lap_time_diff
+- avg_lap_time_diff
+- max_lap_time_diff
+- median_lap_position
+- most_common_starting_position
+- most_common_ending_position
+
+age_at_first_race=twenty-one ⇒ max_lap_time_diff=50% and more
+Confidence: 100%; Lift:1.63;
+driver_nationality = German ⇒ best_performing_circuit_name = Albert Park Grand Prix Circuit
+Confidence:100%; Lift: 1.94
+median_lap_position = six ⇒ min_lap_time_diff = 0-25%
+Confidence: 100%; Lift: 1.63;
+max_lap_time_diff = 50% and more, most_common_starting_position=Top 5 ⇒
+most_common_ending_position=Top 5
+Confidence: 86%; Lift: 2.42;
